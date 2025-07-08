@@ -1,1 +1,11 @@
-
+   <?xml version="1.0" encoding="UTF-8"?>
+   <StoreContent>
+     <Item>
+       <Name>SNES Emulator</Name>
+       <Description>Super Nintendo Emulator</Description>
+       <Icon>https://raw.githubusercontent.com/CottrellStudios/store/refs/heads/main/content/snes/tiny.png</Icon>
+       <Folder>snes</Folder>
+       <Version>1.0.0</Version>
+       <Size>407KB</Size>
+     </Item>
+   </StoreContent>
