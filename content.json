@@ -1,1 +1,14 @@
-
+[
+  {
+    "folder": "griffin",
+    "title": "Peter Griffin's Big Adventure"
+  },
+  {
+    "folder": "snes",
+    "title": "SNES Emulator"
+  },
+  {
+    "folder": "test",
+    "title": "Testing Software"
+  }
+]
